@@ -1,0 +1,19 @@
+<resources>
+    <color name="lavender_50">#FFF7FC</color>
+    <color name="lavender_100">#F8EFFF</color>
+    <color name="lavender_200">#E8D8F8</color>
+    <color name="lavender_300">#D5C1ED</color>
+    <color name="pink_200">#F7D8E9</color>
+    <color name="pink_300">#F1C2DD</color>
+    <color name="sky_200">#CFE9F7</color>
+    <color name="sky_300">#B7DFF5</color>
+    <color name="plum_500">#8A6F8E</color>
+    <color name="plum_600">#735C78</color>
+    <color name="plum_700">#5E4D64</color>
+    <color name="plum_800">#4B3E52</color>
+    <color name="plum_900">#382D3E</color>
+    <color name="white_35">#59FFFFFF</color>
+    <color name="white_45">#73FFFFFF</color>
+    <color name="white_translucent">#F2FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

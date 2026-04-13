@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lavender_100">#F8EFFF</color>
+    <color name="lavender_200">#E8D8F8</color>
+    <color name="lavender_300">#D5C1ED</color>
+    <color name="lavender_50">#FFF7FC</color>
+    <color name="pink_200">#F7D8E9</color>
+    <color name="pink_300">#F1C2DD</color>
+    <color name="plum_500">#8A6F8E</color>
+    <color name="plum_600">#735C78</color>
+    <color name="plum_700">#5E4D64</color>
+    <color name="plum_800">#4B3E52</color>
+    <color name="plum_900">#382D3E</color>
+    <color name="sky_200">#CFE9F7</color>
+    <color name="sky_300">#B7DFF5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_35">#59FFFFFF</color>
+    <color name="white_45">#73FFFFFF</color>
+    <color name="white_translucent">#F2FFFFFF</color>
+    <string name="app_name">TripSwipe</string>
+    <style name="Theme.TripSwipe" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/plum_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/pink_300</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="materialButtonStyle">@style/Widget.TripSwipe.PrimaryButton</item>
+        <item name="chipStyle">@style/Widget.TripSwipe.FilterChip</item>
+    </style>
+    <style name="Widget.TripSwipe.FilterChip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/lavender_100</item>
+        <item name="chipCornerRadius">16dp</item>
+        <item name="checkedIconVisible">false</item>
+        <item name="android:textColor">@color/plum_800</item>
+    </style>
+    <style name="Widget.TripSwipe.ImageNavButton" parent="Widget.Material3.Button.IconButton">
+        <item name="backgroundTint">@color/white_35</item>
+        <item name="rippleColor">@color/white_45</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.TripSwipe.PrimaryButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/plum_700</item>
+        <item name="cornerRadius">22dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+    <style name="Widget.TripSwipe.SoftButton" parent="Widget.Material3.Button.TonalButton">
+        <item name="backgroundTint">@color/lavender_200</item>
+        <item name="cornerRadius">22dp</item>
+        <item name="android:textColor">@color/plum_800</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+</resources>

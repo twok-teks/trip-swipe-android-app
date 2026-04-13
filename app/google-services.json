@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275048820932",
+    "project_id": "tripswipe-15834",
+    "storage_bucket": "tripswipe-15834.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275048820932:android:6a6a123064d6cad3319991",
+        "android_client_info": {
+          "package_name": "com.example.tripswipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgtgQZDiQaCsv64UMgcSb8MYpvlssl14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

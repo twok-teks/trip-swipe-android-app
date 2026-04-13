@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_city_los_angeles.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/city_los_angeles.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_phillip_and_patricia_frost_museum_of_science_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_phillip_and_patricia_frost_museum_of_science_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_santa_monica_pier_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_santa_monica_pier_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_times_square_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_times_square_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_coney_island_luna_park_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_coney_island_luna_park_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_grand_central_market_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_grand_central_market_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_bg_pill.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/bg_pill.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_vizcaya_museum_gardens_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_vizcaya_museum_gardens_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_p_rez_art_museum_miami_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_p_rez_art_museum_miami_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_american_museum_of_natural_history_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_american_museum_of_natural_history_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_bayside_marketplace_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_bayside_marketplace_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_coney_island_luna_park_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_coney_island_luna_park_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_times_square_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_times_square_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_the_broad_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_the_broad_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_versailles_restaurant_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_versailles_restaurant_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_vizcaya_museum_gardens_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_vizcaya_museum_gardens_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_american_museum_of_natural_history_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_american_museum_of_natural_history_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_p_rez_art_museum_miami_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_p_rez_art_museum_miami_1.png"
+    },
+    {
+        "merged": "com.example.tripswipe.app-debug-42:/layout_activity_swipe.xml.flat",
+        "source": "com.example.tripswipe.app-main-44:/layout/activity_swipe.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_city_miami.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/city_miami.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_item_city.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_city.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_universal_studios_hollywood_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_universal_studios_hollywood_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_southpointe.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_southpointe.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_pier.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_pier.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_item_image_slide.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_image_slide.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_versailles_restaurant_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_versailles_restaurant_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_griffith.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_griffith.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_south_pointe_park_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_south_pointe_park_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_centralpark.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_centralpark.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_katz_s_delicatessen_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_katz_s_delicatessen_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_bg_cosmic.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/bg_cosmic.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_attraction_detail.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_attraction_detail.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_santa_monica_pier_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_santa_monica_pier_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_met.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_met.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_the_broad_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_the_broad_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_market.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_market.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_the_metropolitan_museum_of_art_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_the_metropolitan_museum_of_art_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_profile.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_wynwood.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_wynwood.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_griffith_observatory_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_griffith_observatory_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_bayside_marketplace_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_bayside_marketplace_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_p_rez_art_museum_miami_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_p_rez_art_museum_miami_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_lacma_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_lacma_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_results.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_results.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_statue_of_liberty_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_statue_of_liberty_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_deleted_saved_lists.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_deleted_saved_lists.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_grand_central_market_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_grand_central_market_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_swipe.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_swipe.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_vizcaya_museum_gardens_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_vizcaya_museum_gardens_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_times_square_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_times_square_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_katz_s_delicatessen_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_katz_s_delicatessen_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_central_park_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_central_park_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_universal_studios_hollywood_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_universal_studios_hollywood_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_south_pointe_park_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_south_pointe_park_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_getty.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_getty.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_katz.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_katz.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_griffith_observatory_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_griffith_observatory_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_getty_center_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_getty_center_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_the_metropolitan_museum_of_art_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_the_metropolitan_museum_of_art_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_statue_of_liberty_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_statue_of_liberty_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_wynwood_walls_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_wynwood_walls_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_lacma_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_lacma_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_item_saved_list.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_saved_list.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_central_park_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_central_park_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_lunapark.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_lunapark.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_shape_image_frame.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/shape_image_frame.xml"
+    },
+    {
+        "merged": "com.example.tripswipe.app-debug-42:/layout_activity_attraction_detail.xml.flat",
+        "source": "com.example.tripswipe.app-main-44:/layout/activity_attraction_detail.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_pamm.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_pamm.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_lacma_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_lacma_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_wynwood_walls_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_wynwood_walls_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_phillip_and_patricia_frost_museum_of_science_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_phillip_and_patricia_frost_museum_of_science_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_getty_center_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_getty_center_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_the_metropolitan_museum_of_art_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_the_metropolitan_museum_of_art_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_statue_of_liberty_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_statue_of_liberty_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_wynwood_walls_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_wynwood_walls_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_placeholder_photo.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/placeholder_photo.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_coney_island_luna_park_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_coney_island_luna_park_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_item_swipe_card.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_swipe_card.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_grand_central_market_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_grand_central_market_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_versailles_restaurant_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_versailles_restaurant_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_griffith_observatory_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_griffith_observatory_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_santa_monica_pier_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_santa_monica_pier_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_saved_list_detail.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_saved_list_detail.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_bayside_marketplace_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_bayside_marketplace_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_login.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_american_museum_of_natural_history_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_american_museum_of_natural_history_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_the_broad_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_the_broad_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_item_result.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_result.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_phillip_and_patricia_frost_museum_of_science_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_phillip_and_patricia_frost_museum_of_science_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_create_account.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_universal_studios_hollywood_2.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_universal_studios_hollywood_2.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_la_getty_center_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_la_getty_center_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_city_new_york.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/city_new_york.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_south_pointe_park_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_south_pointe_park_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_central_park_1.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_central_park_1.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_ny_katz_s_delicatessen_3.png.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_ny_katz_s_delicatessen_3.png"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-debug-42:/drawable_att_mia_versailles.xml.flat",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/drawable/att_mia_versailles.xml"
+    }
+]

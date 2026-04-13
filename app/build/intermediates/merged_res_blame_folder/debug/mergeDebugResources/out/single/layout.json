@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/item_city.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_city.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_create_account.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/item_result.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_result.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/item_swipe_card.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_swipe_card.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_deleted_saved_lists.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_deleted_saved_lists.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/item_saved_list.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_saved_list.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_saved_list_detail.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_saved_list_detail.xml"
+    },
+    {
+        "merged": "com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_attraction_detail.xml",
+        "source": "com.example.tripswipe.app-main-44:/layout/activity_attraction_detail.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_profile.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_swipe.xml",
+        "source": "com.example.tripswipe.app-main-44:/layout/activity_swipe.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_attraction_detail.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_attraction_detail.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_results.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_results.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_swipe.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_swipe.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/item_image_slide.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/item_image_slide.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "/Users/khanh/.gradle/daemon/9.0-milestone-1/com.example.tripswipe.app-main-44:/layout/activity_main.xml"
+    }
+]
