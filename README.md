@@ -1,43 +1,120 @@
-# TripSwipe Android App
+# 🌍 TripSwipe
 
-TripSwipe is a pastel-themed Android app with built-in travel data for three cities:
-- Los Angeles
-- Miami
-- New York
+> A swipe-based travel discovery app that makes exploring destinations simple, visual, and actually fun.
 
-## Main flow
-1. Choose a city from the home screen.
-2. Swipe left or right on attraction cards.
-3. Finish early or swipe through all cards.
-4. View your saved attractions.
-5. Filter by category such as Museum, Park, Restaurant, or Amusement.
-6. Open the attraction website or Google Maps using links stored in the app.
+---
 
-## Major Android functionalities used
-- RecyclerView
-- Swipe gestures with ItemTouchHelper
-- Multiple activities and intent navigation
-- Implicit intents for browser and Google Maps
-- Firebase Authentication with email/password sign-in
-- Remote image loading with local fallbacks
+## ✨ Overview
 
-## Notes
-- No database is used.
-- Attraction metadata and fallback images are stored locally in `TripRepository.kt`.
-- Remote attraction and city photos are prepared through Google Places image lookups when `PLACES_API_KEY` is provided in `local.properties`.
-- Firebase Authentication is initialized from `local.properties` values so the project can compile before credentials are added.
-- The app uses a minimalist pastel design with rounded cards and a script-like `cursive` font family approximation.
+TripSwipe is an Android application that helps users discover travel destinations through a swipe-based interface. Instead of searching for places manually, users can browse through destinations one at a time and decide whether they are interested by swiping.
 
-## local.properties setup
-Add these values to `local.properties` before testing Firebase email/password auth and remote Places images:
+The goal of this project is to make travel planning feel more natural and less overwhelming by focusing on exploration rather than search.
 
-```properties
-FIREBASE_API_KEY=
-FIREBASE_APP_ID=
-FIREBASE_PROJECT_ID=
-FIREBASE_STORAGE_BUCKET=
-PLACES_API_KEY=
-```
+---
 
-## Open in Android Studio
-Open the `tripswipe_app` folder in Android Studio and let Gradle sync.
+## 🚀 Features
+
+- 👉 Swipe through destinations (like / skip interaction)
+- ❤️ Save destinations for later
+- 📂 View saved lists
+- 🔍 Filter attractions by category
+- 🏝️ Detailed attraction pages with images
+- 🔐 User authentication (Firebase)
+- ♻️ Soft delete + restore functionality
+- 📸 Google Places API for real-world images
+
+---
+
+## 📱 App Flow
+
+Login / Register → Main Page → Swipe Page → Results Page → Saved Lists → Attraction Details
+
+---
+
+## 🧩 Pages & Functionality
+
+### 🔐 Login Page
+- Firebase Authentication login
+- Account creation for new users
+
+### 🏠 Main Page
+- Entry point into the app
+- Displays cities or destinations
+
+### 👉 Swipe Page
+- Core interaction
+- Swipe right = save
+- Swipe left = skip
+
+### 📊 Results Page
+- Filter attractions
+- Remove / restore items
+
+### 📂 Saved List Page
+- View saved destinations
+- Manage saved items
+
+### 🗑️ Deleted Saved Lists
+- Restore previously deleted lists
+
+### 🏝️ Attraction Detail Page
+- View detailed info
+- Image gallery
+
+### 👤 Profile Page
+- User info
+- Logout
+
+---
+
+## 🏗️ Architecture
+
+UI (Activities / Fragments) → ViewModel → Data Layer
+
+---
+
+## ⚙️ Tech Stack
+
+- Kotlin
+- Android SDK
+- Firebase Authentication
+- Google Places API
+
+---
+
+## 🛠️ How to Run
+
+1. Clone repo
+2. Open in Android Studio
+3. Sync Gradle
+4. Run on emulator/device
+
+---
+
+## 🚧 Challenges
+
+- Smooth swipe interactions
+- State management
+- API integration
+
+---
+
+## 📚 What I Learned
+
+- UI/UX design
+- ViewModel usage
+- API integration
+
+---
+
+## 🔮 Future Improvements
+
+- Personalized recommendations
+- Map integration
+- Better animations
+
+---
+
+## 👨‍💻 Author
+
+Your Name
