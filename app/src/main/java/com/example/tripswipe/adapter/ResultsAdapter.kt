@@ -33,7 +33,7 @@ class ResultsAdapter(
             binding.textName.text = attraction.name
             binding.textCategory.text = attraction.category
             binding.textDescription.text = attraction.description
-            binding.buttonMove.text = if (showDeletedMode) "Restore" else "\uD83D\uDDD1\uFE0F"
+            binding.buttonMove.text = if (showDeletedMode) "🔄" else "\uD83D\uDDD1\uFE0F"
 
             binding.buttonWebsite.setOnClickListener { openUrl(attraction.websiteUrl) }
             binding.buttonMap.setOnClickListener { openUrl(attraction.mapUrl) }
